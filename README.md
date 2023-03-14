@@ -2,7 +2,6 @@
 - 👀 I’m interested in computer vision and machine learning.
 - 🌱 I’m currently working on camera calibration techniques.
 - 📫 If you require any further information, feel free to contact me using <a href="donmezbugrahan@gmail.com">donmezbugrahan@gmail.com.</a>
-- [![](https://visitcount.itsvg.in/api?id=nuwandda&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuwandda&layout=compact&hide=html" alt="nuwandda" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuwandda&show_icons=true" alt="nuwandda" /></p>
